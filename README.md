@@ -58,18 +58,11 @@ The Dashboard Contains:
 ## DAX and Calculations
 The project includes calculated columns and DAX measures developed to support sales, profit and profitability analysis.
 Detailed DAX calculations will be documented separately in this repository
-## Data Source 
-The dataset was provided as part of a Udemy Power BI training course.
-The dataset was used for educational and portfolio development purposes.
-
-## Disclaimer
-This project is a portfolio demonstration of Power BI, DAX and data visualisation skills. The underlying dataset was provided through a third-party training course.
 
 </> Markdown
 ## DAX Calculations
 The dashboard includes DAX calculated columns and measures developed for sales, profit and profitability analysis.
 [View DAX Measures and Calculations](Documentation/DAX-Measures.md)
-
 
 </> Markdown
 ## Key Insights
@@ -94,3 +87,9 @@ Key analytical areas include:
 - KPI development
 - Business Intelligence reporting
 
+## Data Source 
+The dataset was provided as part of a Udemy Power BI training course.
+The dataset was used for educational and portfolio development purposes.
+
+## Disclaimer
+This project is a portfolio demonstration of Power BI, DAX and data visualisation skills. The underlying dataset was provided through a third-party training course.
