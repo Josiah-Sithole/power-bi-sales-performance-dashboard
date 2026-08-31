@@ -6,8 +6,8 @@ This project demonstrates the development of an interactive Sales Performance Da
 The project was completed as part of my Power BI training using a dataset provided through a Udemy course.
 The original dataset was already cleaned. My work focused on developing calculated columns, DAX measures, data analysis and dashboard visualisation.
 
-##Dashboard Preview 
-*Dashboard screenshot will be added here.*
+## Dashboard Preview 
+! [Sales Performance Dashboard] (sales-performance-dashboard.png
 
 ## Business Questions
 The dashboard was developed to analyse key aspects of sales and profitability performance including: 
