@@ -7,7 +7,7 @@ The project was completed as part of my Power BI training using a dataset provid
 The original dataset was already cleaned. My work focused on developing calculated columns, DAX measures, data analysis and dashboard visualisation.
 
 ## Dashboard Preview 
-! [Sales Performance Dashboard] (sales-performance-dashboard.png
+! [Sales Performance Dashboard] (sales-performance-dashboard.png)
 
 ## Business Questions
 The dashboard was developed to analyse key aspects of sales and profitability performance including: 
