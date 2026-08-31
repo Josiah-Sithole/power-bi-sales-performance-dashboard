@@ -7,7 +7,7 @@ The project was completed as part of my Power BI training using a dataset provid
 The original dataset was already cleaned. My work focused on developing calculated columns, DAX measures, data analysis and dashboard visualisation.
 
 ## Dashboard Preview 
-(<img width="1215" height="691" alt="image" src="https://github.com/user-attachments/assets/80020aa7-3dd3-4473-9608-61d86c2e79aa" />)
+<img width="1215" height="691" alt="image" src="https://github.com/user-attachments/assets/80020aa7-3dd3-4473-9608-61d86c2e79aa" />
 
 
 ## Business Questions
