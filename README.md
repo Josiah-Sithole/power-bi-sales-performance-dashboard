@@ -65,5 +65,9 @@ The dataset was used for educational and portfolio development purposes.
 ## Disclaimer
 This project is a portfolio demonstration of Power BI, DAX and data visualisation skills. The underlying dataset was provided through a third-party training course.
 
+</> Markdown
+## DAX Calculations
+The dashboard includes DAX calculated columns and measures developed for sales, profit and profitability analysis.
+[View DAX Measures and Calculations](Documentation/DAX-Measures.md)
 
 
