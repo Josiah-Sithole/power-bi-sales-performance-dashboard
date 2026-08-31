@@ -71,3 +71,26 @@ The dashboard includes DAX calculated columns and measures developed for sales, 
 [View DAX Measures and Calculations](Documentation/DAX-Measures.md)
 
 
+</> Markdown
+## Key Insights
+The dashboard provided an overview of sales and profitability performance across products, regions and time periods.
+
+Key analytical areas include: 
+- Identifying the top-performing products based on sales.
+- Identifying the most profitable products based on total profit.
+- Comparing profit margins across products.
+- Analysing difference in profitability across regions.
+- Monitoring monthly sales trends.
+- Using Year and Quarter filters to explore performance over different time period.
+
+</> Markdown
+## Tools & Technologies 
+- Microsoft Power BI
+- DAX
+- Power BI Calculated Columns
+- DAX measures
+- Data visualisation
+- Interactive dashboards
+- KPI development
+- Business Intelligence reporting
+
