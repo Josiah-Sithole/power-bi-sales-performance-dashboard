@@ -7,7 +7,8 @@ The project was completed as part of my Power BI training using a dataset provid
 The original dataset was already cleaned. My work focused on developing calculated columns, DAX measures, data analysis and dashboard visualisation.
 
 ## Dashboard Preview 
-! [Sales Performance Dashboard] (sales-performance-dashboard.png)
+! [Sales Performance Dashboard] (<img width="1215" height="691" alt="image" src="https://github.com/user-attachments/assets/80020aa7-3dd3-4473-9608-61d86c2e79aa" />)
+
 
 ## Business Questions
 The dashboard was developed to analyse key aspects of sales and profitability performance including: 
@@ -29,7 +30,7 @@ The dashboard includes the following key metrics:
 - Profit Margin by Region
 - Monthly Sales Performance
 
-##Power BI Skills Demonstrated 
+## Power BI Skills Demonstrated 
 
 - Microsoft Power BI
 - DAX measures
@@ -61,7 +62,7 @@ Detailed DAX calculations will be documented separately in this repository
 The dataset was provided as part of a Udemy Power BI training course.
 The dataset was used for educational and portfolio development purposes.
 
-##Disclaimer
+## Disclaimer
 This project is a portfolio demonstration of Power BI, DAX and data visualisation skills. The underlying dataset was provided through a third-party training course.
 
 
